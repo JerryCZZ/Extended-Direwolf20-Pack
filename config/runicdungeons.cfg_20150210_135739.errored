@@ -1,0 +1,33 @@
+# Configuration file
+
+dev {
+    B:"DO NOT CHANGE. THIS IS FOR DEV PURPOSES ONLY"=false
+    I:"The mode for the Runic Dungeon Dimension
+1 = Easy
+2 = Normal (Default)
+3 = Hard"=2
+}
+
+
+ids {
+    I:"Dungeon Biome Id"=78
+    I:"Runic Dimension Id"=34
+}
+
+
+misc {
+    B:"Whether not WitherBoss rooms can spawn in Runic Dungeons"=false
+}
+
+
+spawning {
+    I:"Chance of Magic Chalk spawning in a Desert Temple"=30
+    I:"Chance of Magic Chalk spawning in a Jungle Temple"=30
+    I:"Chance of a Dungeon Key spawning in regular Dungeon Chests (You OP Little Cheat)"=1
+    I:"Chance of mobs in Runic Dungeons spawning with Speed"=25
+    I:"Chance of mobs in Runic Dungeons spawning with Strength"=25
+    B:"Whether not Dungeon Guardian rooms can spawn in Runic Dungeons"=true
+    B:"Whether not WitherBoss rooms can spawn in Runic Dungeons"=true
+}
+
+
