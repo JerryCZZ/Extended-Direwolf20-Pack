@@ -1,0 +1,17 @@
+{
+  "id": "Díra_2067,66,923",
+  "name": "Díra",
+  "icon": "waypoint-normal.png",
+  "x": 2067,
+  "y": 66,
+  "z": 923,
+  "r": 11,
+  "g": 100,
+  "b": 19,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

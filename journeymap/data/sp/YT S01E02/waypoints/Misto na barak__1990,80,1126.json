@@ -1,0 +1,17 @@
+{
+  "id": "Misto na barak?_1990,80,1126",
+  "name": "Misto na barak?",
+  "icon": "waypoint-normal.png",
+  "x": 1990,
+  "y": 80,
+  "z": 1126,
+  "r": 152,
+  "g": 97,
+  "b": 37,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

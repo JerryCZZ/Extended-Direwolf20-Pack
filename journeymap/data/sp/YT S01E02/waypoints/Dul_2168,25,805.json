@@ -1,0 +1,17 @@
+{
+  "id": "Dul_2168,25,805",
+  "name": "Dul",
+  "icon": "waypoint-normal.png",
+  "x": 2168,
+  "y": 25,
+  "z": 805,
+  "r": 38,
+  "g": 182,
+  "b": 45,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

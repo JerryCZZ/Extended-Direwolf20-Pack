@@ -1,0 +1,17 @@
+{
+  "id": "Spawner2_741,35,2869",
+  "name": "Spawner2",
+  "icon": "waypoint-normal.png",
+  "x": 741,
+  "y": 35,
+  "z": 2869,
+  "r": 167,
+  "g": 27,
+  "b": 167,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
